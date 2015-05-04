@@ -7,7 +7,7 @@
  * Author: Shekhar Bhandari
  * Author URI: http://shekharbhandari.com.np/
  * Text Domain: shk-hide-title
- * License: A short license name. Example: GPL2
+ * License: GPL2
  */
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 

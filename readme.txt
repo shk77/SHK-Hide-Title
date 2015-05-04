@@ -12,3 +12,12 @@ A Plugin To disable title for pages in WordPress
 == Description ==
 A Plugin To disable title for pages in WordPress, You can use the header class yourself so it works for all themes
 
+== Installation ==
+
+== Frequently Asked Questions ==
+
+== Changelog ==
+
+== Upgrade Notice ==
+
+== Screenshots ==

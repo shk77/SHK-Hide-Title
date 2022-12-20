@@ -1,9 +1,9 @@
 === SHK Hide Title ===
-Contributors: optimistic_shekhar
+Contributors: optimistic_shekhar, shkthemes
 Tags: Hide Title, WordPress
 Requires at least: 4.2
-Tested up to: 4.2
-License: GPLv2 or later
+Tested up to: 5.3
+License: GPLv2 or laterß
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Stable tag: trunk
 
@@ -12,18 +12,28 @@ A Plugin To disable title for pages in WordPress
 == Description ==
 A Plugin To disable title for pages in WordPress, You can use the header class yourself so it works for all themes
 
-== Installation ==
-Unzip and upload the shk-hide-title directory to the plugin directory (/wp-content/plugins/) or install it from Plugins->Add New->Upload
-Activate the plugin through the Plugins menu in WordPress.
+== changelog ==
 
-== Frequently Asked Questions ==
-= What's with the version numbers? =
-The version number is the date of the revision of the [guidelines](https://codex.wordpress.org/Theme_Review) used to create it.
+7/8/2015 version 1.0.1 
+[!] fixed the bug of class
 
-== Changelog ==
-= 9052015 =
-* First release.
+--------
 
-== Upgrade Notice ==
+31/12/2015 version 1.0.2
+[!] Added Customizer option to enter the header class
 
-== Screenshots ==
+--------
+
+--------
+
+31/12/2015 version 1.0.3
+- Added Customizer option to enter the header id that you wanted to Hide
+- Added the option to disable the post title too.
+
+--------
+
+20/12/2021 version 1.0.4
+- Added support to disable guttenberg title
+
+--------
+
